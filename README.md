@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 😊  Hi, I’m Lana (@lanacee) 👩🏻‍💻
-- 💞️  I’m a full-stack software developer
+- 💞️  I’m a software engineer interested in full-stack software development
 - 🌱  I recently graduated from a Software Engineering Immersive at General Assembly Australia
 
 ### My Projects ###
 
-[FlyDAR - Fruit Fly Detection Alert Response](https://github.com/lanacee/datanauts) <br>
+[FlyDAR - Fruit Fly Detection Alert Response](https://github.com/lanacee/project-flyDAR) <br>
 
 [Safe Journey](https://github.com/lanacee/project-safe-journey) <br>
 ***React + node.js + Express + MongoDB*** <br>
