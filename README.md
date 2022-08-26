@@ -1,24 +1,22 @@
 ### Hi there 👋
 
 - 😊  Hi, I’m Lana (@lanacee) 👩🏻‍💻
-- 💞️  I’m interested in full-stack software development
-- 🌱  I'm about to graduate from a Software Engineering Immersive at General Assembly Australia
+- 💞️  I’m a full-stack software developer
+- 🌱  I recently graduated from a Software Engineering Immersive at General Assembly Australia
 
 ### My Projects ###
 
-***Next project: React + Flask (Python) + postgreSQL*** <br>
- <br>
+[FlyDAR - Fruit Fly Detection Alert Response](https://github.com/lanacee/datanauts) <br>
 
-***React + node.js + Express + MongoDB*** <br>
 [Safe Journey](https://github.com/lanacee/project-safe-journey) <br>
+***React + node.js + Express + MongoDB*** <br>
 
+[Shoal](https://github.com/lanacee/project-shoal) <br>
 ***node.js + Express + MongoDB + Bootstrap*** <br>
-[shoal](https://github.com/lanacee/project-shoal) <br>
-A CRUD (Create, Read, Update and Delete) web app with data relationships and user login functionality. <br/>shoal is a dating and dates management app which helps users record, reflect and make decisions about their dating.
+Dating and dates management app which helps users record, reflect and make decisions about their dating.
 
-
-***HTML + CSS + Javascript*** <br>
 [Noughts and Crosses](https://github.com/lanacee/project-noughts-and-crosses/) <br>
+***HTML + CSS + Javascript*** <br>
 My first project - a simple chalkboard themed noughts and crosses game with the fun addition of an emoji shuffle mode 😀 🔀 <br>
 
 
