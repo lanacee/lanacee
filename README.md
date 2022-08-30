@@ -6,6 +6,9 @@
 
 ### My Projects ###
 
+[Oodles of Oodles](https://github.com/lanacee/project-oodlesofoodles) <br>
+Dog breed name generator for poodle mixes
+
 [FlyDAR - Fruit Fly Detection Alert Response](https://github.com/lanacee/project-flyDAR) <br>
 
 [Safe Journey](https://github.com/lanacee/project-safe-journey) <br>
