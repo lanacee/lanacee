@@ -1,25 +1,24 @@
 ### Hi there 👋
 
-- 😊  Hi, I’m Lana (@lanacee) 👩🏻‍💻
-- 💞️  I’m a software engineer interested in full-stack software development
-- 🌱  I recently graduated from a Software Engineering Immersive at General Assembly Australia
+- 😊  Hi, I’m Lana (@lanacee)
+- 🌏  I'm from Melbourne, Australia
+- 💞️  I’m a junior software engineer 👩🏻‍💻 interested in full-stack software development 🌱
 
-### My Projects ###
+### Selected Projects ###
 
-[Oodles of Oodles](https://github.com/lanacee/project-oodles-of-oodles) <br>
-Dog breed name generator for poodle mixes
+[🪰 FlyDAR - Fruit Fly Detection Alert Response](https://github.com/lanacee/project-flyDAR) - ***Python*** <br>
+Notifies farmers of fruit fly detection on their property by biosecurity officers, allowing for timely action to prevent fruit fly outbreaks.
 
-[FlyDAR - Fruit Fly Detection Alert Response](https://github.com/lanacee/project-flyDAR) <br>
+[🌏 Safe Journey](https://github.com/lanacee/project-safe-journey) - ***React, node.js, Express, MongoDB (MERN stack)*** <br>
+Supports safe travel for those more likely to face discrimination and harassment when travelling by allowing users to rate and share their travel experiences.
 
-[Safe Journey](https://github.com/lanacee/project-safe-journey) <br>
-***React + node.js + Express + MongoDB*** <br>
-
-[Shoal](https://github.com/lanacee/project-shoal) <br>
-***node.js + Express + MongoDB + Bootstrap*** <br>
+[🐠 Shoal](https://github.com/lanacee/project-shoal) - ***node.js, Express, MongoDB, Bootstrap*** <br>
 Dating and dates management app which helps users record, reflect and make decisions about their dating.
 
-[Noughts and Crosses](https://github.com/lanacee/project-noughts-and-crosses/) <br>
-***HTML + CSS + Javascript*** <br>
+[🐶 Oodles of Oodles](https://github.com/lanacee/project-oodles-of-oodles) - ***HTML, CSS, Javascript*** <br>
+Dog breed name generator for poodle mixes using The Dogs API
+
+[❌⭕ Noughts and Crosses](https://github.com/lanacee/project-noughts-and-crosses/) - ***HTML, CSS, Javascript*** <br>
 My first project - a simple chalkboard themed noughts and crosses game with the fun addition of an emoji shuffle mode 😀 🔀 <br>
 
 
