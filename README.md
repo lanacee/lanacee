@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-- 😊  Hi, I’m Alana (@lanacee)
-- 🌏  I'm from Melbourne, Australia
-- 👩🏻‍💻  I’m a software engineer interested in full-stack software development 🌱
+Hi, I’m @lanacee 👩🏻‍💻
 
 ### Selected Projects ###
 
 [🥣 Cereal Box License](https://github.com/lanacee/project-cereal-box) - ***React, TypeScript, TBC*** <br>
-My current project, a place to complain about terrible drivers.
+A place to complain about terrible drivers (in progress, currently paused).
 
 [🌏 Safe Journey](https://github.com/lanacee/project-safe-journey) - ***React, node.js, Express, MongoDB*** <br>
 Supports safe travel for those more likely to face discrimination and harassment when travelling, by allowing users to rate and share their travel experiences.
